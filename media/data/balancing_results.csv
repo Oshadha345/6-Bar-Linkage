@@ -1,0 +1,14 @@
+Parameter,Value
+Unbalanced RMS Force (N),1132.49651038252
+Unbalanced Peak Force (N),8595.06133765971
+Unbalanced RMS Moment (N·m),230.725976890526
+,NaN
+Initial Counterweight Mass (kg),0.5
+Initial Counterweight Radius (mm),50
+Balanced RMS Force (N),1132.13488228815
+Force Reduction (%),0.0319319389556871
+,NaN
+Optimized CW Mass (kg),1.9999993356252
+Optimized CW Radius (mm),50
+Optimized RMS Force (N),1131.08245929229
+Optimized Reduction (%),0.124861408159915

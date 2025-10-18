@@ -1,0 +1,21 @@
+Parameter,Value
+l1 (mm),575.28
+l2 (mm),246.3
+l3 (mm),484.62
+l4 (mm),324.74
+l5 (mm),572.72
+AC (mm),325.64
+H (mm),78.91
+S (mm),846.41
+beta (deg),-14.978
+theta1 (deg),9.6
+omega2 (rad/s),10
+m2 (kg),1
+m3 (kg),2.5
+m4 (kg),1.5
+m5 (kg),1.8
+m6 (kg),0.9
+I2 (kg·m²),0.002
+I3 (kg·m²),0.008
+I4 (kg·m²),0.005
+I5 (kg·m²),0.006
